@@ -19,3 +19,12 @@ img {
   border: 4px solid black;
   margin-top: -104px;
 }
+
+footer a {
+  color: #77bdbd;
+}
+
+footer a:active,
+footer a:hover {
+  color: #ff0063;
+}
