@@ -1,0 +1,21 @@
+header {
+  margin: 50px 0;
+}
+
+header > p {
+  margin: 15px 0;
+}
+
+.btn {
+  background-color: #8fbdbd;
+  padding: 15px 32px;
+  border-radius: 10px;
+  color: #898aa6;
+}
+
+.btn:active,
+.btn:hover {
+  background-color: #898aa6;
+  color: #8fbdbd;
+  box-shadow: 2px 3px 3px #ff0063;
+}
