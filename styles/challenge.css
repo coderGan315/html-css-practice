@@ -19,3 +19,19 @@ header > p {
   color: #8fbdbd;
   box-shadow: 2px 3px 3px #ff0063;
 }
+
+ul {
+  width: 500px;
+  margin: 0 auto 50px auto;
+}
+
+li {
+  background-color: #6d9090;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+li:nth-of-type(even) {
+  background-color: #548989;
+}
