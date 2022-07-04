@@ -14,3 +14,13 @@ a {
 li {
   list-style: none;
 }
+
+h1 {
+  font-size: 40px;
+  line-height: 2;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
