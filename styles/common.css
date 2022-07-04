@@ -9,6 +9,7 @@
 body {
   background-color: #413f42;
   color: wheat;
+
   font-family: "Open Sans", sans-serif;
   text-align: center;
 }
@@ -23,7 +24,7 @@ li {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 50px;
   line-height: 2;
 }
 

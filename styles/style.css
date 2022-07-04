@@ -9,7 +9,8 @@ header {
 
 header > h1 {
   text-transform: uppercase;
-  color: #66bfbf;
+  color: #164f4f;
+  text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.75);
 }
 
 img {
@@ -21,7 +22,7 @@ img {
 }
 
 footer a {
-  color: #77bdbd;
+  color: #3c5d5d;
 }
 
 footer a:active,
