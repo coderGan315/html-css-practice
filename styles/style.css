@@ -10,6 +10,7 @@ header {
 header > h1 {
   text-transform: uppercase;
   color: #164f4f;
+  text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.75);
 }
 
 img {
